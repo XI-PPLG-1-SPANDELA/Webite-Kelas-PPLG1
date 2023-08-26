@@ -1,0 +1,30 @@
+.body {
+    background-color: aquamarine;
+}
+
+.body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: tomato;
+}
+ 
+
+head {
+    background-color: aqua;
+    justify-content: center;
+    text-align: center;
+}
+
+aaa {
+    text-align: center;
+}
+
+container {
+    text-align: justify;
+    font-size: larger;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 30px;
+}
