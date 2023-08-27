@@ -31,8 +31,7 @@ Webite-Kelas-PPLG1
 = https://xipplg1spandela.000webhostapp.com/Projet-HTML/Pajri/fajrikom.html/Belajar%20Borobudur.html
 - RIFA EKO
 = https://xipplg1spandela.000webhostapp.com/Projet-HTML/Rifa-Eko/belajar_paragraf.html
-- SATRIO SITI  
-= https://xipplg1spandela.000webhostapp.com/Projet-HTML/Satrio%20&%20Siti/Z.belajar_paragraf.html
+- SATRIO SITI =https://xipplg1spandela.000webhostapp.com/Projet-HTML/Satrio%20&%20Siti/Z.belajar_paragraf.html
 - TASYA  YULIA ELVINA 
 = https://xipplg1spandela.000webhostapp.com/Projet-HTML/tasya%20yulia%20elvina/Belajar_paragraf.html
 - ZAHRA TASYA 
