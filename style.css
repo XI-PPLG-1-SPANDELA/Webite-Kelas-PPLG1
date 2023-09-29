@@ -2,7 +2,7 @@
 
 body {
     font-family: "Secular One", sans-serif;
-    background-color: rgb(50, 84, 122);
+    background-color: rgb(37, 15, 47);
     overflow-x: hidden;
 }
 
@@ -13,12 +13,12 @@ html {
 /* navbar */
 
 .navbar {
-    background-color: #474A59 !important;
+    background-color: #030303 !important;
 }
 
 .navbar-brand {
     font-weight: bold;
-    color: white !important;
+    color: rgb(255, 255, 255) !important;
     font-family: 'Secular One', sans-serif;
 }
 
@@ -45,12 +45,17 @@ html {
 
 
 .jumbotron {
-    background-image: url("img/backgroundDrack.jpg");
-    background-position: 30%;
+    background-image: url("img/WELCOME\ TO\ XI\ PPLG\ 1.png");
     background-size: cover;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
-    height: 630px;
+    height: 450px;
 }
+h1 {
+    color: white;
+}
+
+
 
 .jumbotron h1 {
     font-weight: 800;
@@ -160,7 +165,6 @@ html {
 .about h3 {
     color: white !important;
     font-weight: bold;
-    border-bottom: 3px solid white;
 }
 
 .about .card {
